@@ -1,0 +1,16 @@
+This is basically a web project made using PHP and MYSQL. The main idea of the project is to allocate internship stations to students, 
+taking their preferences and CGPA and the reducing the manual efforts. 
+
+The project works on the principle that student having higher CGPA should beallocated the internship station first followed by lesser one. 
+It provides complete internship management with an internship account for each student. The MYSQL is used to link database inorder to control 
+the registration of users, adding companies by the internship administrator, etc.Both PHP and MYSQL are open source languages and thus 
+run freely on other platforms.
+
+Video link of the Application
+https://www.youtube.com/watch?v=7VhKMjTjkgQ
+
+Report link of the Application
+http://www.scribd.com/doc/54258864/Internship-Allocator
+
+Visit the link below in test the application
+http://akashkhaitan.0fees.net/login.php 
